@@ -1,1 +1,1 @@
-testing git
+Udemyや書籍の学習をコミット
